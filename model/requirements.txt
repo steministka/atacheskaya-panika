@@ -1,0 +1,11 @@
+# обязателен, с указанием используемой версии Python и всех внешних зависимостей
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+mne
+tqdm
+jupyterlab
+ipykernel
