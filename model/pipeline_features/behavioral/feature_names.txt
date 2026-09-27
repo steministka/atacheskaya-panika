@@ -1,0 +1,2 @@
+behavioral__activity_duration_s
+behavioral__rest_duration_s
